@@ -1,0 +1,25 @@
+{
+  "name": "IntervalMath",
+  "type": "library",
+  "description": "lib for boolean math with intervals",
+  "keywords": [
+    "interval"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.5"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^4.8.35 || ^5.7 || ^6.4 || ^7.0",
+  },
+  "autoload": {
+    "psr-4": {
+      "IM\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "IM\\Tests\\": "tests/"
+    }
+  }
+}
