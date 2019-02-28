@@ -1,5 +1,5 @@
 {
-  "name": "IntervalMath",
+  "name": "interval-math",
   "type": "library",
   "description": "lib for boolean math with intervals",
   "keywords": [
